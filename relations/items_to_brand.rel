@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/smartphoneshop/brand",
+items:[
+{foreignColumnName:"brandid",primaryDataProviderID:"brandid",typeid:23,uuid:"60612294-5EF4-4C6E-8301-E09DF1762BE9"}
+],
+joinType:1,
+name:"items_to_brand",
+primaryDataSource:"db:/smartphoneshop/items",
+typeid:22,
+uuid:"2FF69EC3-D86B-487E-B279-083DBA56FD7F"

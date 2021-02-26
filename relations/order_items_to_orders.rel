@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/smartphoneshop/orders",
+items:[
+{foreignColumnName:"orderid",primaryDataProviderID:"orderid",typeid:23,uuid:"1B885D37-0B9D-48D0-A5EB-67AE2C23087B"}
+],
+joinType:1,
+name:"order_items_to_orders",
+primaryDataSource:"db:/smartphoneshop/order_items",
+typeid:22,
+uuid:"DBD944B9-013F-46BB-A571-848549C6A6ED"
